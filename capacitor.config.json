@@ -1,0 +1,16 @@
+{
+  "appId": "com.asaudio.editor",
+  "appName": "AS Audio Editor",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#080c14",
+      "showSpinner": false
+    }
+  }
+}
